@@ -1,5 +1,6 @@
 # ImageToASCII
 Convert a png image into ASCII text for an interesting tech effect. 
+Uses Anaconda. Requires PILLOW
 - Choose between light and dark text modes to account for white text vs black text and prevent color inversion.
 - Choose height and width stretch factors for various fonts and line spacing.
 - Choose a resolution to modify the size of the created ASCII blob.
